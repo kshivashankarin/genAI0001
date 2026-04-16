@@ -1,4 +1,5 @@
-
+# genAI0001
 Code to teach python introduction
 
-This is for my git testing
+
+Hello this is for genAI
